@@ -8,16 +8,44 @@ Karen Cardona Gutiérrez
 
 ## Descripción
 
-Este proyecto corresponde a la Fase 1 del trabajo de Inteligencia Artificial, cuyo objetivo es diseñar problemas de programación relacionados con análisis de datos y machine learning, junto con sus respectivos generadores de casos de uso.
+Este proyecto corresponde al trabajo de Inteligencia Artificial, incluyendo la Fase 1 y la Fase 2, cuyo objetivo es diseñar e implementar problemas de programación relacionados con análisis de datos, machine learning y procesamiento numérico.
+
+Contenido del proyecto
 
 Cada problema define claramente:
 
-El nombre de la función a implementar
-Sus parámetros de entrada
-El formato de salida esperado
+El nombre de la función a implementar.
+Sus parámetros de entrada.
+El formato de salida esperado.
+La lógica o procedimiento requerido para resolver el ejercicio.
 
-Además, se incluye una función generadora de casos de uso que:
+Además, el proyecto incluye generadores de casos de uso que permiten crear entradas válidas y escenarios de prueba para cada problema planteado.
 
-Produce entradas aleatorias válidas
-Calcula el resultado esperado (ground truth)
-Permite validar automáticamente la implementación de la función solución
+Fase 1
+
+La Fase 1 se enfoca en el diseño de ejercicios y generadores de casos relacionados con diferentes escenarios de análisis de datos y aprendizaje automático.
+
+Fase 2
+
+La Fase 2 incluye la implementación y resolución de los ejercicios asignados, así como las respuestas desarrolladas colaborativamente por los integrantes del equipo. En esta fase se incorporan ejercicios relacionados con:
+
+Preprocesamiento de datos.
+Ingeniería de características.
+Métricas de evaluación.
+Modelos de regresión y clasificación.
+Manipulación de datos con numpy y pandas.
+Técnicas de machine learning usando scikit-learn.
+Tecnologías utilizadas
+Python
+NumPy
+Pandas
+Scikit-learn
+Objetivo general
+
+El propósito del proyecto es fortalecer habilidades en:
+
+Programación orientada al análisis de datos.
+Implementación de algoritmos de machine learning.
+Diseño de casos de prueba reproducibles.
+Resolución de problemas de Inteligencia Artificial.
+Trabajo colaborativo en el desarrollo de soluciones computacionales.
