@@ -42,11 +42,5 @@ Manipulación de datos con numpy y pandas.
 Técnicas de machine learning usando scikit-learn.
 
 
-### Tecnologías utilizadas
-Python
-NumPy
-Pandas
-Scikit-learn
-
 
 
